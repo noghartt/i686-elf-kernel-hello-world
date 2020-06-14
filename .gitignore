@@ -1,0 +1,7 @@
+.vscode
+
+myos.bin
+terminal.o
+vga.o
+kernel.o
+boot.o
